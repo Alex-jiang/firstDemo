@@ -4,6 +4,7 @@ class second{
 	
 	static void main(String args[]){
 		second s = new second();
-		println a;
+		println a.getA();
+		
 	}
 }
